@@ -25,7 +25,7 @@ Here is my [Curriculum Vitae](https://durandg12.github.io/files/cv.pdf).
 
 Publications
 ======
-See [Education](https://durandg12.gihub.io/#education) for my PhD thesis.
+See [Education](https://durandg12.github.io/#education) for my PhD thesis.
 
 ## Published papers
 **Post hoc false positive control for structured hypotheses**, G. Durand, G. Blanchard, P. Neuvial, E. Roquain, [Scandinavian Journal of Statistics 47.4 (2020), pp. 1114–1148](https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12453). arXiv version: [arXiv:1807.01470](https://arxiv.org/abs/1807.01470).
