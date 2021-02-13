@@ -43,20 +43,54 @@ See [Education](https://durandg12.github.io/#education) for my PhD thesis.
 
 Software
 ======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Contributions to the R package sansSouci on [GitHub](https://github.com/pneuvial/sanssouci). Post hoc bounds on the number of false positives of any selected set of hypotheses.
+
+R package DiscreteFDR on [CRAN](https://cran.r-project.org/web/packages/DiscreteFDR/index.html). Multiple testing procedures controlling the FDR for *p*-values with discrete support.
 
 Talks
 ======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Improved post hoc bounds for localized signal**, Young Researchers' Meeting in Mathematical Statistics, September 2018, Paris. [Slides](https://durandg12.github.io/files/24_09_2018_YRM.pdf).
+
+**Optimal data-driven weighting procedure with grouped hypotheses and *pi_0*-adaptation**, Workshop: Post-selection Inference and Multiple Testing, February 2018, Toulouse. [Poster](https://durandg12.github.io/files/07_02_2018_PoSi.pdf).
+
+**Tests multiples : généralités, problème du weighting optimal**, Journée des thésards ESP, October 2017, Toulouse. [Slides](https://durandg12.github.io/files/24_10_2017_ESP.pdf).
+
+**Adaptive data-driven optimal weighting**, Statistique Mathématique et Applications, September 2017, Fréjus. [Slides](https://durandg12.github.io/files/07_09_2017_StatMathAppli.pdf).
+
+**Step-up procedure with data-driven optimal weights for grouped hypotheses**, Multiple Comparison Procedures, June 2017, Riverside. [Slides](https://durandg12.github.io/files/22_06_2017_MCP.pdf).
+
+**BH procedure using data-driven optimal weights for grouped hypotheses**, CMStatistics, December 2016, Sevilla. [Slides](https://durandg12.github.io/files/09_12_2016_CMStatistics.pdf).
+
+**An extension of the Benjamini and Hochberg procedure using data-driven optimal weights with grouped hypothesis**, Journées MAS, August 2016, Grenoble. [Slides](https://durandg12.github.io/files/29_08_2016_MAS.pdf).
 
 Teaching
 ======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Introduction aux probabilités**, practical tutorials, 1st year students, Polytech Sorbonne, 2017, 8 hours.
+
+**Mesure, intégration, probabilités**, practical tutorials, 1st year students, Institut de statistique de Sorbonne Université, 2015-2016, 90 hours per year.
 
 Work experience
 =====
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Data Scientist**, [Intelligent Locations](https://www.intelligentlocations.fr/), since 2018. Study and simulation of patient and asset flow inside multiple hospital services, software development using Pyton and SQL.
+
+**PhD student**, [Sorbonne Université](https://www.sorbonne-universite.fr/), 2015-2018. See [Education](https://durandg12.github.io/#education).
+
+**Internship student in bioinformatics**, [Sanofi](https://www.sanofi.com/en), under the supervision of [Franck Augé](https://www.linkedin.com/in/franck-auge-644a4353/), 2015 (6 months). 
+
+**Research assistant in population genetics**, [Université de Montréal](https://www.umontreal.ca/), under the supervision of [Sabin Lessard](http://www.dms.umontreal.ca/~lessards/), 2014 (4 months).
+
+**Internship student in development**, [Lipigas](https://www.lipigas.cl/), under the supervision of [Camilo Muñoz](https://www.linkedin.com/in/camilo-mp/), 2013 (6 weeks).
+
+**Teaching assistant in elementary schools**, Académie de Créteil, under the supervision of Axel Jean, 2011-2012 (7 months).
 
 Education
 ======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**PhD**, [LPSM](https://www.lpsm.paris/), [Sorbonne Université](https://www.sorbonne-universite.fr/), 2015-2018, Paris. Here is my [manuscript](https://durandg12.github.io/files/thesis.pdf) (with minor corrections with respect to the TEL repository [version](https://tel.archives-ouvertes.fr/tel-02374758)) and here are my [defense slides](https://durandg12.github.io/files/26_11_2018_soutenance.pdf).
+
+**Master 2 [Mathématiques pour les sciences du vivant](https://www.imo.universite-paris-saclay.fr/-Mathematiques-Sciences-du-Vivant)**, Université Paris-Sud (now [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)), 2014-2015, Orsay.
+
+**Diplôme de l'X**, [École polytechnique](https://www.polytechnique.edu/), 2011-2015, Palaiseau.
+
+**Classe Préparatoire aux Grandes Écoles**, [Lycée Henri IV](https://lycee-henri4.com/), 2009-2012, Paris.
+
+**Baccalauréat scientifique**, Lycée Guillaume Budé, Limeil-Brévannes.
