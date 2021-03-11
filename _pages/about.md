@@ -49,6 +49,8 @@ R package DiscreteFDR on [CRAN](https://cran.r-project.org/web/packages/Discrete
 
 Talks
 ======
+**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Séminaire de probabilités et statistiques du LAMA, March 2021, Champs-sur-Marne. [Slides](https://durandg12.github.io/files/09_03_2021_MLV.pdf).
+
 **Improved post hoc bounds for localized signal**, Young Researchers' Meeting in Mathematical Statistics, September 2018, Paris. [Slides](https://durandg12.github.io/files/24_09_2018_YRM.pdf).
 
 **Optimal data-driven weighting procedure with grouped hypotheses and *pi_0*-adaptation**, Workshop: Post-selection Inference and Multiple Testing, February 2018, Toulouse. [Poster](https://durandg12.github.io/files/07_02_2018_PoSi.pdf).
