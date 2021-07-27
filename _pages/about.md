@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a maître de conférences (~associate professor) at Université Paris-Saclay in Orsay (south of Paris) in the field of statistics. My research interests are multiple testing and its applications to biological problems, and the theoretical foundations of machine learning and deep learning.
+I am a maître de conférence (~associate professor) at Université Paris-Saclay in Orsay (south of Paris) in the field of statistics. My research interests are multiple testing and its applications to biological problems, and the theoretical foundations of machine learning and deep learning.
 
 
 Previously, I worked as a data scientist on patient and asset flow at [Intelligent Locations](https://www.intelligentlocations.fr/). Before that, I did my PhD in applied mathematics at the Laboratoire de Probabilité, Statistique et Modélisation ([LPSM](https://www.lpsm.paris/)) of [Sorbonne Université](https://www.sorbonne-universite.fr/), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/) and [Pierre Neuvial](https://www.math.univ-toulouse.fr/~pneuvial/). During my PhD I worked on multiple testing procedures using weighting and heterogeneity, as well as post hoc false positive bounds for selective inference. Before my PhD, I studied mathematics and engineering at École polytechnique and Université Paris-Sud.
@@ -76,7 +76,9 @@ Teaching
 
 Work experience
 =====
-**Data Scientist**, [Intelligent Locations](https://www.intelligentlocations.fr/), since 2018. Study and simulation of patient and asset flow inside multiple hospital services, software development using Pyton and SQL.
+**Maître de conférence**, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/la-recherche/), since 2021.
+
+**Data Scientist**, [Intelligent Locations](https://www.intelligentlocations.fr/), 2018-2021. Study and simulation of patient and asset flow inside multiple hospital services, software development using Pyton and SQL.
 
 **PhD student**, [Sorbonne Université](https://www.sorbonne-universite.fr/), 2015-2018. See [Education](https://durandg12.github.io/#education).
 
