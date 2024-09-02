@@ -71,10 +71,21 @@ Talks
 **An extension of the Benjamini and Hochberg procedure using data-driven optimal weights with grouped hypothesis**, Journées MAS, August 2016, Grenoble. [Slides](https://durandg12.github.io/files/29_08_2016_MAS.pdf).
 
 Teaching
-======
+========
+
+As a maître de conférences at Université Paris-Saclay:
+------------------------------------------------------
+**Pré-requis de statistique**, lecture course, M1 Mathématiques et IA, 2023+, 6 hours/year. [Essentiels de théorie de la mesure](https://durandg12.github.io/files/notes_mesure.pdf).
+
+During my PhD:
+--------------
+
 **Introduction aux probabilités**, practical tutorials, 1st year students, Polytech Sorbonne, 2017, 8 hours.
 
-**Mesure, intégration, probabilités**, practical tutorials, 1st year students, Institut de statistique de Sorbonne Université, 2015-2016, 90 hours per year.
+**Mesure, intégration, probabilités**, practical tutorials, 1st year students, Institut de statistique de Sorbonne Université, 2015-2016, 90 hours/year.
+
+Other teaching experiences:
+---------------------------
 
 Work experience
 =====
