@@ -2,3 +2,5 @@
 _site/
 vendor/
 .bundle/
+
+_pages/about_files
