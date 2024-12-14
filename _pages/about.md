@@ -8,28 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a maître de conférence (~associate professor) at Université Paris-Saclay in Orsay (south of Paris) in the field of statistics. My research interests are multiple testing and its applications to biological problems, and the theoretical foundations of machine learning and deep learning.
+I am a maître de conférences (~associate professor) at Université Paris-Saclay in Orsay (south of Paris) in the field of statistics. My main research interests are multiple testing and its applications to biological problems. I am also interested by conformal prediction and mathematical statistics at large.
 
 
-Previously, I worked as a data scientist on patient and asset flow at [Intelligent Locations](https://www.intelligentlocations.fr/). Before that, I did my PhD in applied mathematics at the Laboratoire de Probabilité, Statistique et Modélisation ([LPSM](https://www.lpsm.paris/)) of [Sorbonne Université](https://www.sorbonne-universite.fr/), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/) and [Pierre Neuvial](https://www.math.univ-toulouse.fr/~pneuvial/). During my PhD I worked on multiple testing procedures using weighting and heterogeneity, as well as post hoc false positive bounds for selective inference. Before my PhD, I studied mathematics and engineering at École polytechnique and Université Paris-Sud.
+Previously, I worked as a data scientist on patient and asset flow at [Intelligent Locations](https://www.intelligentlocations.fr/). Before that, I prepared my PhD in applied mathematics at the Laboratoire de Probabilité, Statistique et Modélisation ([LPSM](https://www.lpsm.paris/)) of [Sorbonne Université](https://www.sorbonne-universite.fr/), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/) and [Pierre Neuvial](https://www.math.univ-toulouse.fr/~pneuvial/).
 
-Here is my [Curriculum Vitae](https://durandg12.github.io/files/cv.pdf) (updated 2023-06-06).
+You can find more information in my [Curriculum Vitae](https://durandg12.github.io/files/cv.pdf) (in French).
 
 ## Research interests
 
-* Multiple testing and FDR control: theory and application to omics data
+* Multiple testing, FDR and FDP control
 * p-value weighting and power optimality
 * Discrete multiple testing
-* Selective inference, post hoc inference and joint false positive control
-* Deep learning, expressivity of neural networks
-* Counterfactual inference, meta-learning, state space learning, reinforcement learning
+* Selective inference, post hoc inference
+* Conformal inference
+* Applications to omics data
 
 Publications
 ======
 See [Education](https://durandg12.github.io/#education) for my PhD thesis.
 
 ## Published papers
-**Post hoc false positive control for structured hypotheses**, G. Durand, G. Blanchard, P. Neuvial, E. Roquain, [Scandinavian Journal of Statistics 47.4 (2020), pp. 1114–1148](https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12453). arXiv version: [arXiv:1807.01470](https://arxiv.org/abs/1807.01470).
+**Post hoc false positive control for structured hypotheses**, G. Durand, G. Blanchard, P. Neuvial, E. Roquain, [Scandinavian Journal of Statistics 47.4 (2020), pp. 1114–1148](https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12453). Accepted version is on arXiv: [arXiv:1807.01470](https://arxiv.org/abs/1807.01470).
 
 **Adaptive *p*-value weighting with power optimality**, G. Durand, [Electronic Journal of Statistics 13.2 (2019), pp. 3336–3385](https://projecteuclid.org/euclid.ejs/1569377056).
 
@@ -40,19 +40,21 @@ See [Education](https://durandg12.github.io/#education) for my PhD thesis.
 **Fixation probability in a two-locus intersexual selection model**, G. Durand, S. Lessard, [Theoretical population biology 109 (2016), pp. 75–87](https://www.sciencedirect.com/science/article/pii/S0040580916300028).
 
 ## Preprints
+**FDR control and FDP bounds for conformal link prediction**, G. Blanchard, G. Durand, A. Marandon-Carlhian, R. Périer, [arXiv:2404.02542](https://arxiv.org/abs/2404.02542).
+
 **DiscreteFDR: An R package for controlling the false discovery rate for discrete test statistics**, G. Durand, F. Junge, S. Döhler, E. Roquain, [arXiv:1904.02054](https://arxiv.org/abs/1904.02054).
 
 Software
 ======
-Contributions to the R package sansSouci on [GitHub](https://github.com/pneuvial/sanssouci). Post hoc bounds on the number of false positives of any selected set of hypotheses.
+R package sansSouci on [GitHub](https://github.com/pneuvial/sanssouci). Post hoc bounds on the number of false positives of any selected set of hypotheses.
 
 R package DiscreteFDR on [CRAN](https://cran.r-project.org/web/packages/DiscreteFDR/index.html). Multiple testing procedures controlling the FDR for *p*-values with discrete support.
 
-Talks
+Selected Talks
 ======
-**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Journée de rentrée du LMO, October 2021, Orsay. [Slides](https://durandg12.github.io/files/2021_09_30_LMO.pdf).
+**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Séminaire de Statistique du MAP5, November 2024, Paris. [Slides](https://durandg12.github.io/files/2024_11_15_MAP5.pdf).
 
-**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Séminaire Statistique de l'IRMA, March 2021, Strasbourg (videoconference). [Slides](https://durandg12.github.io/files/2021_03_15_Strasbourg.pdf).
+**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Séminaire de Probabilités et Statistique de l'IMAG, November 2023, Montpellier. [Slides](https://durandg12.github.io/files/2023_11_13_IMAG.pdf).
 
 **Contrôle post hoc des faux positifs pour des hypothèses structurées**, Séminaire de probabilités et statistiques du LAMA, March 2021, Champs-sur-Marne. [Slides](https://durandg12.github.io/files/2021_03_09_MLV.pdf).
 
@@ -73,19 +75,20 @@ Talks
 Teaching
 ========
 
-As a maître de conférences at Université Paris-Saclay:
+The details of my teachings are in my [Curriculum Vitae](https://durandg12.github.io/files/cv.pdf) (in French). Here you can find some of my course material.
+
+For all my teachings of mathematical statistics:
 ------------------------------------------------------
-**Pré-requis de statistique**, lecture course, M1 Mathématiques et IA, 2023+, 6 hours/year. [Essentiels de théorie de la mesure](https://durandg12.github.io/files/notes_mesure.pdf).
+[Essentiels de théorie de la mesure](https://durandg12.github.io/files/notes_mesure.pdf), notes in French.
 
-During my PhD:
---------------
+For the Master 2 Mathématiques & IA:
+-------
+[Introduction to multiple testing](https://durandg12.github.io/files/slidesMT.pdf), slides in English.
 
-**Introduction aux probabilités**, practical tutorials, 1st year students, Polytech Sorbonne, 2017, 8 hours.
+For my Mathematical Statistics teaching at ENSAE:
+--------
+[The textbook](https://durandg12.github.io/files/poly.pdf), in French.
 
-**Mesure, intégration, probabilités**, practical tutorials, 1st year students, Institut de statistique de Sorbonne Université, 2015-2016, 90 hours/year.
-
-Other teaching experiences:
----------------------------
 
 Work experience
 =====
@@ -110,7 +113,3 @@ Education
 **Master 2 [Mathématiques pour les sciences du vivant](https://www.imo.universite-paris-saclay.fr/-Mathematiques-Sciences-du-Vivant)**, Université Paris-Sud (now [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)), 2014-2015, Orsay.
 
 **Diplôme de l'X**, [École polytechnique](https://www.polytechnique.edu/), 2011-2015, Palaiseau.
-
-**Classe Préparatoire aux Grandes Écoles**, [Lycée Henri IV](https://lycee-henri4.com/), 2009-2012, Paris.
-
-**Baccalauréat scientifique**, Lycée Guillaume Budé, Limeil-Brévannes.
