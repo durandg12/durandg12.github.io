@@ -26,7 +26,6 @@ You can find more information in my [Curriculum Vitae](https://durandg12.github.
 
 Publications
 ======
-See [Education](https://durandg12.github.io/#education) for my PhD thesis.
 
 ## Published papers
 **Post hoc false positive control for structured hypotheses**, G. Durand, G. Blanchard, P. Neuvial, E. Roquain, [Scandinavian Journal of Statistics 47.4 (2020), pp. 1114–1148](https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12453). Accepted version is on arXiv: [arXiv:1807.01470](https://arxiv.org/abs/1807.01470).
@@ -92,19 +91,19 @@ For my Mathematical Statistics teaching at ENSAE:
 
 Work experience
 =====
-**Maître de conférence**, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/la-recherche/), since 2021.
+**Maître de conférences**, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/la-recherche/), since 2021.
 
 **Data Scientist**, [Intelligent Locations](https://www.intelligentlocations.fr/), 2018-2021. Study and simulation of patient and asset flow inside multiple hospital services, software development using Pyton and SQL.
 
 **PhD student**, [Sorbonne Université](https://www.sorbonne-universite.fr/), 2015-2018. See [Education](https://durandg12.github.io/#education).
 
-**Internship student in bioinformatics**, [Sanofi](https://www.sanofi.com/en), under the supervision of [Franck Augé](https://www.linkedin.com/in/franck-auge-644a4353/), 2015 (6 months). 
+**Research internship in bioinformatics**, [Sanofi](https://www.sanofi.com/en), under the supervision of [Franck Augé](https://www.linkedin.com/in/franck-auge-644a4353/), 2015 (6 months). 
 
-**Research assistant in population genetics**, [Université de Montréal](https://www.umontreal.ca/), under the supervision of [Sabin Lessard](http://www.dms.umontreal.ca/~lessards/), 2014 (4 months).
+**Research internship in population genetics**, [Université de Montréal](https://www.umontreal.ca/), under the supervision of [Sabin Lessard](http://www.dms.umontreal.ca/~lessards/), 2014 (4 months).
 
-**Internship student in development**, [Lipigas](https://www.lipigas.cl/), under the supervision of [Camilo Muñoz](https://www.linkedin.com/in/camilo-mp/), 2013 (6 weeks).
+**Engineer internship**, [Lipigas](https://www.lipigas.cl/), under the supervision of [Camilo Muñoz](https://www.linkedin.com/in/camilo-mp/), 2013 (6 weeks).
 
-**Teaching assistant in elementary schools**, Académie de Créteil, under the supervision of Axel Jean, 2011-2012 (7 months).
+**Teaching internship in elementary schools**, Académie de Créteil, under the supervision of Axel Jean, 2011-2012 (7 months).
 
 Education
 ======
