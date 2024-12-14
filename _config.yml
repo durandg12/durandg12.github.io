@@ -10,7 +10,7 @@ locale                   : "fr-FR"
 title                    : "Guillermo Durand"
 title_separator          : "-"
 name                     : &name "Guillermo Durand"
-description              : &description "PhD in Applied Mathematics from Sorbonne University"
+description              : &description "Maître de conférences at Université Paris-Saclay"
 url                      : https://durandg12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "durandg12/durandg12.github.io"
@@ -82,13 +82,15 @@ analytics:
 author:
   name             : "Guillermo Durand"
   avatar           : "profile_flou1.jpg"
-  bio              : "PhD in Applied Mathematics from Sorbonne University. Currently data scientist at Intelligent Locations."
-  location         : "Paris, France"
+  bio              : "Maître de conférences at Université Paris-Saclay"
+  location         : "Massy, France"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=8IMo5PcAAAAJ"
+  orcid            : "https://orcid.org/0000-0003-4056-5631"
+  github           : "durandg12"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Guillermo_Durand2"
+  researchgate     : "https://www.researchgate.net/profile/Guillermo_Durand2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +98,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "durandg12"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
+  stackoverflow    : "8719405/guillermo-durand"
   linkedin         : "guillermo-durand-b8312a85/"
-  orcid            : "https://orcid.org/0000-0003-4056-5631"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "8719405/guillermo-durand"
   steam            :
   tumblr           :
   twitter          :
