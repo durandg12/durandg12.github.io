@@ -50,25 +50,25 @@ R package DiscreteFDR on [CRAN](https://cran.r-project.org/web/packages/Discrete
 
 Talks
 ======
-**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Journée de rentrée du LMO, October 2021, Orsay. [Slides](https://durandg12.github.io/files/30_09_2021_LMO.pdf).
+**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Journée de rentrée du LMO, October 2021, Orsay. [Slides](https://durandg12.github.io/files/2021_09_30_LMO.pdf).
 
-**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Séminaire Statistique de l'IRMA, March 2021, Strasbourg (videoconference). [Slides](https://durandg12.github.io/files/15_03_2021_Strasbourg.pdf).
+**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Séminaire Statistique de l'IRMA, March 2021, Strasbourg (videoconference). [Slides](https://durandg12.github.io/files/2021_03_15_Strasbourg.pdf).
 
-**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Séminaire de probabilités et statistiques du LAMA, March 2021, Champs-sur-Marne. [Slides](https://durandg12.github.io/files/09_03_2021_MLV.pdf).
+**Contrôle post hoc des faux positifs pour des hypothèses structurées**, Séminaire de probabilités et statistiques du LAMA, March 2021, Champs-sur-Marne. [Slides](https://durandg12.github.io/files/2021_03_09_MLV.pdf).
 
-**Improved post hoc bounds for localized signal**, Young Researchers' Meeting in Mathematical Statistics, September 2018, Paris. [Slides](https://durandg12.github.io/files/24_09_2018_YRM.pdf).
+**Improved post hoc bounds for localized signal**, Young Researchers' Meeting in Mathematical Statistics, September 2018, Paris. [Slides](https://durandg12.github.io/files/2018_09_24_YRM.pdf).
 
-**Optimal data-driven weighting procedure with grouped hypotheses and *pi_0*-adaptation**, Workshop: Post-selection Inference and Multiple Testing, February 2018, Toulouse. [Poster](https://durandg12.github.io/files/07_02_2018_PoSi.pdf).
+**Optimal data-driven weighting procedure with grouped hypotheses and *pi_0*-adaptation**, Workshop: Post-selection Inference and Multiple Testing, February 2018, Toulouse. [Poster](https://durandg12.github.io/files/2018_02_07_PoSi.pdf).
 
-**Tests multiples : généralités, problème du weighting optimal**, Journée des thésards ESP, October 2017, Toulouse. [Slides](https://durandg12.github.io/files/24_10_2017_ESP.pdf).
+**Tests multiples : généralités, problème du weighting optimal**, Journée des thésards ESP, October 2017, Toulouse. [Slides](https://durandg12.github.io/files/2017_10_24_ESP.pdf).
 
-**Adaptive data-driven optimal weighting**, Statistique Mathématique et Applications, September 2017, Fréjus. [Slides](https://durandg12.github.io/files/07_09_2017_StatMathAppli.pdf).
+**Adaptive data-driven optimal weighting**, Statistique Mathématique et Applications, September 2017, Fréjus. [Slides](https://durandg12.github.io/files/2017_09_07_StatMathAppli.pdf).
 
-**Step-up procedure with data-driven optimal weights for grouped hypotheses**, Multiple Comparison Procedures, June 2017, Riverside. [Slides](https://durandg12.github.io/files/22_06_2017_MCP.pdf).
+**Step-up procedure with data-driven optimal weights for grouped hypotheses**, Multiple Comparison Procedures, June 2017, Riverside. [Slides](https://durandg12.github.io/files/2017_06_22_MCP.pdf).
 
-**BH procedure using data-driven optimal weights for grouped hypotheses**, CMStatistics, December 2016, Sevilla. [Slides](https://durandg12.github.io/files/09_12_2016_CMStatistics.pdf).
+**BH procedure using data-driven optimal weights for grouped hypotheses**, CMStatistics, December 2016, Sevilla. [Slides](https://durandg12.github.io/files/2016_12_09_CMStatistics.pdf).
 
-**An extension of the Benjamini and Hochberg procedure using data-driven optimal weights with grouped hypothesis**, Journées MAS, August 2016, Grenoble. [Slides](https://durandg12.github.io/files/29_08_2016_MAS.pdf).
+**An extension of the Benjamini and Hochberg procedure using data-driven optimal weights with grouped hypothesis**, Journées MAS, August 2016, Grenoble. [Slides](https://durandg12.github.io/files/2016_08_29_MAS.pdf).
 
 Teaching
 ========
