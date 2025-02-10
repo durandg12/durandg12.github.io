@@ -39,6 +39,8 @@ Publications
 **Fixation probability in a two-locus intersexual selection model**, G. Durand, S. Lessard, [Theoretical population biology 109 (2016), pp. 75–87](https://www.sciencedirect.com/science/article/pii/S0040580916300028).
 
 ## Preprints
+**A fast algorithm to compute a curve of confidence upper bounds for the False Discovery Proportion using a reference family with a forest structure**, G. Durand, [arXiv:2502.03849](https://arxiv.org/abs/2502.03849).
+
 **FDR control and FDP bounds for conformal link prediction**, G. Blanchard, G. Durand, A. Marandon-Carlhian, R. Périer, [arXiv:2404.02542](https://arxiv.org/abs/2404.02542).
 
 **DiscreteFDR: An R package for controlling the false discovery rate for discrete test statistics**, G. Durand, F. Junge, S. Döhler, E. Roquain, [arXiv:1904.02054](https://arxiv.org/abs/1904.02054).
